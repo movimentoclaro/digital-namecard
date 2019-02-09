@@ -3,7 +3,7 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Claro;Movimento;;;
 FN: Movimento  Claro 
-ORG:ClaroCascais;
+ORG:@movimento_claro;
 TITLE:Associação Ambiental Sem Fins Lucrativos
 EMAIL;type=INTERNET;type=WORK;type=pref:cascais@movimentoclaro.org
 TEL;type=WORK;type=VOICE:
