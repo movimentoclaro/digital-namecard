@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Claro;Movimento;;;
+FN: Movimento  Claro 
+ORG:ClaroCascais;
+TITLE:Associação Ambiental Sem Fins Lucrativos
+EMAIL;type=INTERNET;type=WORK;type=pref:cascais@movimentoclaro.org
+TEL;type=WORK;type=VOICE:
+item1.ADR;type=WORK;type=pref:;;Rua António Costa Carvalho\, Ed. Casa das Associações;;;2765-015;São João do Estoril
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:movimentoclaro.org
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
